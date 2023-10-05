@@ -1,0 +1,628 @@
+.index {
+  background-color: #e5e5e7;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.index .div {
+  background-color: #e5e5e7;
+  width: 1920px;
+  height: 4660px;
+  position: relative;
+}
+
+.index .footer {
+  position: absolute;
+  width: 1920px;
+  height: 1260px;
+  top: 3400px;
+  left: 0;
+  background-color: transparent;
+}
+
+.index .component {
+  position: relative;
+  width: 1920px;
+  height: 1204px;
+}
+
+.index .overlap {
+  position: absolute;
+  width: 1920px;
+  height: 890px;
+  top: 0;
+  left: 0;
+  background-color: #1e1e1e;
+}
+
+.index .OFFERS-PROMOTIONS {
+  position: absolute;
+  top: 85px;
+  left: 143px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 36.2px;
+  white-space: nowrap;
+}
+
+.index .line {
+  position: absolute;
+  width: 1040px;
+  height: 3px;
+  top: 101px;
+  left: 627px;
+}
+
+.index .overlap-group {
+  position: absolute;
+  width: 192px;
+  height: 89px;
+  top: 693px;
+  left: 860px;
+  background-color: #191919;
+  border-radius: 14px;
+  border: 3px solid;
+  border-color: #1db618;
+}
+
+.index .text-wrapper {
+  position: absolute;
+  top: 24px;
+  left: 37px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 34.4px;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-2 {
+  position: absolute;
+  top: 565px;
+  left: 248px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 57.4px;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-3 {
+  left: 826px;
+  position: absolute;
+  top: 565px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 57.4px;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-4 {
+  left: 1342px;
+  position: absolute;
+  top: 565px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 57.4px;
+  white-space: nowrap;
+}
+
+.index .image {
+  width: 450px;
+  height: 339px;
+  top: 197px;
+  left: 152px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.index .img {
+  width: 450px;
+  height: 339px;
+  top: 197px;
+  left: 731px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.index .image-2 {
+  width: 450px;
+  height: 339px;
+  top: 197px;
+  left: 1266px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.index .overlap-group-wrapper {
+  position: absolute;
+  width: 305px;
+  height: 244px;
+  top: 960px;
+  left: 807px;
+}
+
+.index .overlap-group-2 {
+  position: relative;
+  height: 244px;
+  top: -1px;
+}
+
+.index .flexcontainer {
+  gap: 33px;
+  width: 305px;
+  height: 244px;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  left: 0;
+}
+
+.index .text-i {
+  font-size: 32px;
+  text-align: center;
+  line-height: 45.9px;
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.index .span {
+  font-weight: 900;
+}
+
+.index .text-wrapper-5 {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 34.4px;
+  text-decoration: underline;
+}
+
+.index .line-2 {
+  position: absolute;
+  width: 305px;
+  height: 1px;
+  top: 60px;
+  left: 0;
+  object-fit: cover;
+}
+
+.index .conteudo {
+  position: absolute;
+  width: 1920px;
+  height: 2580px;
+  top: 820px;
+  left: 0;
+}
+
+.index .text-wrapper-6 {
+  position: absolute;
+  top: 59px;
+  left: 139px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 36.2px;
+  white-space: nowrap;
+}
+
+.index .component-2 {
+  position: absolute;
+  width: 786px;
+  height: 343px;
+  top: 316px;
+  left: 993px;
+}
+
+.index .frame {
+  display: flex;
+  width: 222px;
+  height: 56px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 20px 30px;
+  position: absolute;
+  top: 287px;
+  left: 0;
+  background-color: #000000;
+}
+
+.index .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  margin-top: -4px;
+  margin-bottom: -2px;
+  margin-left: -12.5px;
+  margin-right: -12.5px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 21.7px;
+  white-space: nowrap;
+}
+
+.index .flexcontainer-2 {
+  gap: 53px;
+  width: 786px;
+  height: 229px;
+  top: -1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  left: 0;
+}
+
+.index .text {
+  font-size: 48px;
+  line-height: 43.4px;
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.index .text-wrapper-8 {
+  font-weight: 700;
+}
+
+.index .text-wrapper-9 {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 29px;
+}
+
+.index .text-wrapper-10 {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 21.7px;
+}
+
+.index .component-3 {
+  position: absolute;
+  width: 786px;
+  height: 343px;
+  top: 901px;
+  left: 130px;
+}
+
+.index .flexcontainer-i {
+  gap: 52px;
+  width: 786px;
+  height: 229px;
+  top: -1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  left: 0;
+}
+
+.index .span-wrapper {
+  font-size: 48px;
+  line-height: 48px;
+  position: relative;
+  align-self: stretch;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.index .text-wrapper-11 {
+  font-weight: 700;
+  line-height: 43.4px;
+}
+
+.index .text-wrapper-12 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 26.6px;
+}
+
+.index .component-4 {
+  position: absolute;
+  width: 786px;
+  height: 343px;
+  top: 1522px;
+  left: 1004px;
+}
+
+.index .component-5 {
+  position: absolute;
+  width: 786px;
+  height: 343px;
+  top: 2115px;
+  left: 141px;
+}
+
+.index .image-3 {
+  width: 800px;
+  height: 556px;
+  top: 220px;
+  left: 129px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.index .image-4 {
+  width: 800px;
+  height: 556px;
+  top: 800px;
+  left: 993px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.index .image-5 {
+  width: 800px;
+  height: 556px;
+  top: 1392px;
+  left: 129px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.index .image-6 {
+  width: 800px;
+  height: 556px;
+  top: 1992px;
+  left: 993px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.index .banner {
+  position: absolute;
+  width: 1920px;
+  height: 655px;
+  top: 165px;
+  left: 0;
+}
+
+.index .SETTING-THE-STANDARD {
+  position: absolute;
+  width: 590px;
+  top: 221px;
+  left: 162px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 40px;
+}
+
+.index .text-wrapper-13 {
+  line-height: 76.4px;
+}
+
+.index .text-wrapper-14 {
+  font-size: 14px;
+  line-height: 26.7px;
+}
+
+.index .image-7 {
+  width: 750px;
+  height: 461px;
+  top: 63px;
+  left: 870px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.index .overlap-2 {
+  position: absolute;
+  width: 1920px;
+  height: 116px;
+  top: 539px;
+  left: 0;
+}
+
+.index .NINJA-BAR {
+  position: absolute;
+  width: 1920px;
+  height: 116px;
+  top: 0;
+  left: 0;
+}
+
+.index .overlap-group-3 {
+  position: relative;
+  height: 116px;
+}
+
+.index .frame-wrapper {
+  position: absolute;
+  width: 1920px;
+  height: 116px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.index .frame-2 {
+  display: flex;
+  width: 595px;
+  height: 38px;
+  align-items: flex-start;
+  gap: 56px;
+  position: relative;
+  top: 39px;
+  left: 89px;
+}
+
+.index .text-wrapper-15 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 38.2px;
+  white-space: nowrap;
+}
+
+.index .line-3 {
+  position: absolute;
+  width: 3px;
+  height: 84px;
+  top: 16px;
+  left: 221px;
+}
+
+.index .BUILD-PRICE-wrapper {
+  display: flex;
+  width: 281px;
+  height: 71px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 20px 30px;
+  position: absolute;
+  top: 24px;
+  left: 892px;
+  background-color: #000000;
+  border-radius: 9px;
+}
+
+.index .text-wrapper-16 {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 21.7px;
+  white-space: nowrap;
+}
+
+.index .div-wrapper {
+  display: flex;
+  width: 281px;
+  height: 71px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 20px 30px;
+  position: absolute;
+  top: 24px;
+  left: 1211px;
+  background-color: #000000;
+  border-radius: 9px;
+}
+
+.index .frame-3 {
+  display: flex;
+  width: 281px;
+  height: 71px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 20px 30px;
+  position: absolute;
+  top: 24px;
+  left: 1529px;
+  background-color: #000000;
+  border-radius: 9px;
+}
+
+.index .line-4 {
+  position: absolute;
+  width: 1920px;
+  height: 3px;
+  top: 113px;
+  left: 0;
+}
+
+.index .header {
+  position: absolute;
+  width: 1920px;
+  height: 164px;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+.index .overlap-3 {
+  position: relative;
+  width: 1920px;
+  height: 164px;
+}
+
+.index .navbar {
+  display: flex;
+  width: 1920px;
+  align-items: center;
+  gap: 15px;
+  padding: 0px 74px;
+  position: absolute;
+  top: 102px;
+  left: 0;
+  background-color: #282828;
+}
+
+.index .line-5 {
+  position: relative;
+  width: 1px;
+  height: 62px;
+  object-fit: cover;
+}
+
+.index .text-wrapper-17 {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.index .kawasaki-logo-png {
+  position: absolute;
+  width: 232px;
+  height: 164px;
+  top: 0;
+  left: 109px;
+  object-fit: cover;
+}
+
+.index .line-6 {
+  position: absolute;
+  width: 1919px;
+  height: 5px;
+  top: 100px;
+  left: 1px;
+}
